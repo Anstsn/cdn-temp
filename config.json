@@ -46,5 +46,57 @@
   },
   "EVENTS_WITHOUT_PARTNERS": [
     100113
-  ]
+  ],
+  "PLAYLISTS_BEAUTY_NAMES": {
+    "sch100071": { "name": "Joker", "year": 2020, "season": "AUTUMN" },
+    "sch100091": { "name": "TechFest #1", "year": 2021, "season": "MEETUPS" },
+    "sch100094": { "name": "Sber Java Meetup #1", "year": 2021, "season": "MEETUPS" },
+    "sch100095": { "name": "TechFest #3", "year": 2021, "season": "MEETUPS" },
+    "sch100097": { "name": "Tech Talks: Java", "year": 2021, "season": "MEETUPS" },
+    "sch100098": { "name": "Sber JS Meetup #2", "year": 2021, "season": "MEETUPS" },
+    "sch100099": { "name": "TechFest #4", "year": 2021, "season": "MEETUPS" },
+    "sch100110": { "name": "Flutter Meetup", "year": 2021, "season": "MEETUPS" },
+    "sch100111": { "name": "ITOne", "year": 2021, "season": "MEETUPS" },
+    "sch100112": { "name": "TechFest #5", "year": 2021, "season": "MEETUPS" },
+    "sch100114": { "name": "Sber Test in Agile", "year": 2021, "season": "MEETUPS" },
+    "sch100115": { "name": "Miro", "year": 2021, "season": "MEETUPS" },
+
+    "sch100077": { "name": "Heisenbug", "year": 2020, "season": "AUTUMN" },
+    "sch100076": { "name": "Mobius", "year": 2020, "season": "AUTUMN" },
+    "sch100073": { "name": "C++", "year": 2020, "season": "AUTUMN" },
+    "sch100075": { "name": "HolyJS", "year": 2020, "season": "AUTUMN" },
+    "sch100072": { "name": "DevOops", "year": 2020, "season": "AUTUMN" },
+    "sch100074": { "name": "DotNext", "year": 2020, "season": "AUTUMN" },
+    "sch100083": { "name": "SmartData", "year": 2020, "season": "AUTUMN" },
+    "sch100084": { "name": "TechTrain", "year": 2020, "season": "AUTUMN" },
+
+    "sch100068": { "name": "DevOops", "year": 2020, "season": "SUMMER" },
+    "sch100078": { "name": "SPTDC", "year": 2020, "season": "SUMMER" },
+    "sch100070": { "name": "Hydra", "year": 2020, "season": "SUMMER" },
+    "sch100063": { "name": "JPoint", "year": 2020, "season": "SUMMER" },
+    "sch100067": { "name": "C++", "year": 2020, "season": "SUMMER" },
+    "sch100066": { "name": "HolyJS", "year": 2020, "season": "SUMMER" },
+    "sch100069": { "name": "Mobius", "year": 2020, "season": "SUMMER" },
+    "sch100065": { "name": "Heisenbug", "year": 2020, "season": "SUMMER" },
+    "sch100064": { "name": "DotNext", "year": 2020, "season": "SUMMER" },
+    "sch100081": { "name": "TechTrain", "year": 2020, "season": "SUMMER" },
+
+    "sch100085": { "name": "Heisenbug", "year": 2021, "season": "SPRING" },
+    "sch100087": { "name": "JPoint", "year": 2021, "season": "SPRING" },
+    "sch100086": { "name": "Mobius", "year": 2021, "season": "SPRING" },
+    "sch100088": { "name": "DotNext", "year": 2021, "season": "SPRING" },
+    "sch100089": { "name": "HolyJS", "year": 2021, "season": "SPRING" },
+    "sch100093": { "name": "TechTrain", "year": 2021, "season": "SPRING" },
+    "sch100096": { "name": "Hydra", "year": 2021, "season": "SPRING" },
+
+    "sch100113": { "name": "TechTrain", "year": 2021, "season": "AUTUMN" },
+    "sch100101": { "name": "Heisenbug", "year": 2021, "season": "AUTUMN" },
+    "sch100102": { "name": "SmartData", "year": 2021, "season": "AUTUMN" },
+    "sch100103": { "name": "DotNext", "year": 2021, "season": "AUTUMN" },
+    "sch100104": { "name": "Joker", "year": 2021, "season": "AUTUMN" },
+    "sch100105": { "name": "HolyJS", "year": 2021, "season": "AUTUMN" },
+    "sch100106": { "name": "DevOops", "year": 2021, "season": "AUTUMN" },
+    "sch100107": { "name": "C++", "year": 2021, "season": "AUTUMN" },
+    "sch100108": { "name": "Mobius", "year": 2021, "season": "AUTUMN" },
+  }
 }
