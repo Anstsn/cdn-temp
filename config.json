@@ -1,0 +1,50 @@
+{
+  "EVENTS_URL_NAMES": {
+    "100061": "testEvent",
+
+    "100085": "heisenbug",
+    "100086": "mobius",
+    "100087": "jpoint",
+    "100088": "dotnext",
+    "100089": "holyjs",
+    "100096": "hydra",
+
+    "100113": "techtrain",
+    "100101": "heisenbug",
+    "100102": "smartdata",
+    "100103": "dotnext",
+    "100104": "joker",
+    "100105": "holyjs",
+    "100106": "devoops",
+    "100107": "cpp",
+    "100108": "mobius"
+  },
+  "ACTUAL_EVENTS": [
+    "100113",
+    "100101",
+    "100102",
+    "100103",
+    "100104",
+    "100105",
+    "100106",
+    "100107",
+    "100108",
+    "100061"
+  ],
+  "EVENTS_BY_TICKET_URLS": {
+    "100061": "https://techtrain.ru/registration/",
+
+    "100113": "https://techtrain.ru/registration/",
+    "100101": "",
+    "100102": "",
+    "100103": "",
+    "100104": "",
+    "100105": "",
+    "100106": "",
+    "100107": "",
+    "100108": ""
+  },
+  "EVENTS_WITHOUT_PARTNERS": [
+    100113
+  ]
+}
